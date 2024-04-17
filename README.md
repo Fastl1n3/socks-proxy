@@ -1,2 +1,2 @@
 # socks-proxy
-Socks 4 и 5 прокси с использованием селектора
+Прокси-сервер, поддерживающий стандарт SOCKS 4 и 5(establish a TCP/IP stream connection), без аутентификации.
